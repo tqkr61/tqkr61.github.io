@@ -1,5 +1,2 @@
-# tqkr61.github.io
-
-
-
-### Inspired by @lokrogamer
+# tqkr61
+## Official Website of tqkr61
